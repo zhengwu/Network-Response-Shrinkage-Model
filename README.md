@@ -1,6 +1,6 @@
 # Network-Response-Shrinkage-Model
 
-This repository contains code and data to reproduce the NRSS (network response structural shrinkage) method proposed in "**Genetic underpinnings of brain structural connectome for young adults**" by Y. Zhao, C. Chang, J. Zhang, Z. Zhang in https://arxiv.org/abs/2212.00967. 
+This repository contains code and data to reproduce the NRSS (network response structural shrinkage) method proposed in "**Genetic underpinnings of brain structural connectome for young adults**" by Y. Zhao, C. Chang, J. Zhang, and Z. Zhang in https://arxiv.org/abs/2212.00967. 
  
  - `run_data_simulation.R` contains the script for simulating data described in **Section 5 Simulations** of NRSS paper;
  
